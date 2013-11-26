@@ -1,5 +1,11 @@
-## crud-mysql-c
+## CRUD-MySQL-C
 C code ilustration for CRUD (Create, Read, Update, Delete) with MySQL database.
+
+## System Requirements
+
+Ubuntu or Debian platform. You also need MySQL for database testing
+
+$ sudo apt-get install mysql-server mysql-client
 
 
 ## License
