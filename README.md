@@ -3,7 +3,7 @@ C code ilustration for CRUD (Create, Read, Update, Delete) with MySQL database.
 
 ## System Requirements
 
-Linux platform with installed gcc. You also need MySQL for database testing. For Debian/Ubuntu, you can install mysql-server and mysql-client.
+Linux platform with installed gcc and MySQL for database testing. For Debian/Ubuntu, you can install mysql-server and mysql-client.
 
 	$ sudo apt-get install mysql-server mysql-client
 
